@@ -22,7 +22,7 @@ Este trabajo practico nos permite familiarizarnos con la sintaxis básica de Jav
 
 ## Como usar este repositorio
 Puedes descargar el reposiorio utilizando el siguiente comando:
-`git clone`
+`git clone https://github.com/Matoma1607/TP1-Variables102i.git`
 
 ## Autor 👨🏽‍💻
 - Salazar Matias
