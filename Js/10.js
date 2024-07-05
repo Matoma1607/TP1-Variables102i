@@ -1,7 +1,7 @@
 // Escriba un programa que pida un numero y nos diga si es divisible por 2, 3, 5 o 7
 
-const numero = parseInt (prompt (`Introduzca un numero`));
-const resultado = `El numero ${numero}`;
+const numero = parseInt (prompt ('Introduzca un numero'));
+const resultado = 'El numero ${numero}';
 
 if (numero % 2 === 0){
     resultado += "es divisible por 2";
