@@ -8,9 +8,10 @@
 666666*/
 
 for (let i = 1; i <= 30; i++){
-    let linea = '';
-    for (let j = 0; j < i; j ++){
-        linea += 1 + '';
+    if (i === 5){
+        document.write('5'.repeat(i - 1) + '4' + '<br>');
+    } else{
+        document.write(String(i).repeat(i) + '<br>');
     }
-    console.log(linea.trim());
+
 }
