@@ -10,8 +10,8 @@ Utiliza este objeto para mostrar la descripción, ingresar y extraer dinero y vo
 
 class Cuenta {
   constructor(titular, saldo) {
-    this.titular = titular;
-    this.saldo = saldo;
+    this.titular = "Alex";
+    this.saldo = 0;
   }
 
   ingresar(cantidad) {
